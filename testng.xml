@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="3" name="API Tests" annotations="JDK" parallel="methods">
+    <test  name="Selenium-PHPTRAVEL-REGISTER">
+        <classes>
+            <class name="Tests.Injectable"/>
+        </classes>
+    </test>
+</suite>

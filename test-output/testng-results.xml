@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33594" started-at="2020-06-07T04:41:24 EET" finished-at="2020-06-07T04:41:58 EET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33594" started-at="2020-06-07T04:41:24 EET" finished-at="2020-06-07T04:41:58 EET">
+      <class name="test.RegistrationTestCase">
+        <test-method status="PASS" signature="OpenUrl()[pri:0, instance:test.RegistrationTestCase@131276c2]" name="OpenUrl" is-config="true" duration-ms="24287" started-at="2020-06-07T04:41:24 EET" finished-at="2020-06-07T04:41:48 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenUrl -->
+        <test-method status="PASS" signature="TextRegister()[pri:0, instance:test.RegistrationTestCase@131276c2]" name="TextRegister" duration-ms="6935" started-at="2020-06-07T04:41:49 EET" finished-at="2020-06-07T04:41:55 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TextRegister -->
+        <test-method status="PASS" signature="TakeScreenShot(org.testng.ITestResult)[pri:0, instance:test.RegistrationTestCase@131276c2]" name="TakeScreenShot" is-config="true" duration-ms="5" started-at="2020-06-07T04:41:55 EET" finished-at="2020-06-07T04:41:55 EET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TextRegister status=SUCCESS method=RegistrationTestCase.TextRegister()[pri:0, instance:test.RegistrationTestCase@131276c2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TakeScreenShot -->
+        <test-method status="PASS" signature="QuitURL()[pri:0, instance:test.RegistrationTestCase@131276c2]" name="QuitURL" is-config="true" duration-ms="2153" started-at="2020-06-07T04:41:55 EET" finished-at="2020-06-07T04:41:58 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitURL -->
+      </class> <!-- test.RegistrationTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
