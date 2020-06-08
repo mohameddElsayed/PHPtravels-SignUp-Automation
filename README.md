@@ -1,2 +1,5 @@
 # PHPtravels-SignUp-Automation
-Selenium/Java/Maven/TestNg
+
+Selenium frame work project using Java  , Maven  , TestNg and POM
+
+
